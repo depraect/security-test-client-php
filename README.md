@@ -141,7 +141,7 @@ public function setUp()
 
 <?php
 /**
-* Este es el método que se será ejecutado en la prueba ubicado en path/to/repository/test/Api/SegmentadorApiTest.php
+* Este es el método que se será ejecutado en la prueba ubicado en path/to/repository/test/Api/PruebaDeSeguridadApiTest.php
 */
 public function testFicoScoreAPI()
 {
